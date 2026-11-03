@@ -39,7 +39,7 @@ All experiments ran in a single Kaggle notebook cell on an NVIDIA Tesla T4 GPU.
 - NumPy 2.1.3
 - SciPy 1.16.3
 - pandas 2.3.3
-- matplotlib 3.10.1
+- matplotlib 3.10.0
 
 Exact library versions are also recorded automatically with every run inside `code_logs.log`.
 

@@ -1,4 +1,5 @@
 # DP_Research_Paper
+[![DOI](https://zenodo.org/badge/1442571697.svg)](https://doi.org/10.5281/zenodo.23877532)
 
 # K-LSG-Shield
 
